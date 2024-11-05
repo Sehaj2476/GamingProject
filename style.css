@@ -1,0 +1,27 @@
+*{
+    background-image: url(bg.png);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    color: white;
+}
+body{
+    color: white; 
+    text-align: center;
+}
+select{
+    color: white;
+    height: 2rem;
+    width: 12rem;
+    border-radius: 1rem;
+}
+select > option{
+    color: black;
+}
+button{
+    text-align: center;
+    height: 3rem;
+    width: 7rem;
+    background-color: white;
+    border-radius: 0.8rem;
+}
